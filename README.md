@@ -53,7 +53,7 @@ node index.js
 ... 
 
 ## Live Video
-URL: 
+URL: https://www.loom.com/share/eb15262322ac4c8196069caf0c4aa313
 
 
 ## Contributing
